@@ -1,6 +1,6 @@
-# 🧏‍♂️ Sign Language Recognition System (ISL | CNN + LSTM)
+# SINGTALK (🧏‍♂️ Sign Language Recognition System using CNN + LSTM)
 
-A real-time **Indian Sign Language (ISL)** recognition system that converts hand gestures into **text and speech**.  
+A real-time Sign Language recognition system that converts hand gestures into **text and speech**.  
 This project uses a hybrid deep-learning approach combining:
 
 - 🧠 **CNN** — for static alphabet recognition  
